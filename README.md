@@ -1,2 +1,38 @@
 # matthieu-colliaux-data-portfolio
-Data Analytics projects
+# 📊 Portfolio Data Analyst – Matthieu Colliaux
+
+👋 Welcome on my GitHub portfolio
+
+I am a **Business Data Analyst in training (RNCP niveau 7 – DataScientest, French school)**, 
+with a background as a **software engineer** and a strong interest in data analysis,
+visualization, and business insights.
+
+🎯 **Goal:** Business Data Analyst apprenticeship (12 to 24 months)
+
+---
+
+## 🧠 Key Skills
+- **Data Analysis:** Python (Pandas, NumPy), SQL
+- **Data Visualization / BI:** Power BI, Excel
+- **Data Modeling:** DBT (foundations)
+- **Business Knowledge:** Marketing & finance KPIs, data storytelling
+
+---
+
+## 📁 Projects
+
+### 📌 Power BI
+- **E-commerce Sales Analysis**
+  - KPIs: Revenue, Average Order Value, RFM segmentation
+  - Interactive dashboards designed for decision-making
+
+📂 [`powerbi/ecommerce-sales-dashboard`](powerbi/ecommerce-sales-dashboard)
+
+---
+
+## 📫 Contact
+- 📧 Email: matthieu.colliaux@gmail.com  
+- 🔗 LinkedIn: (to be added)  
+- 📄 CV: (PDF link)
+
+Thank you for visiting 🙂
