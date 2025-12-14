@@ -7,7 +7,7 @@ I am a **Business Data Analyst in training (RNCP niveau 7 – DataScientest, Fre
 with a background as a **software engineer** and a strong interest in data analysis,
 visualization, and business insights.
 
-🎯 **Goal:** Business Data Analyst apprenticeship (12 to 24 months)
+🎯 **Objective:** Business Data Analyst apprenticeship (12 to 24 months)
 
 ---
 
