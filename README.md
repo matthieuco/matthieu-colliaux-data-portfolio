@@ -26,7 +26,7 @@ visualization, and business insights.
   - KPIs: Revenue, Average Order Value, RFM segmentation
   - Interactive dashboards designed for decision-making
 
-📂 [`powerbi/ecommerce-sales-dashboard`](powerbi/ecommerce-sales-dashboard)
+📂 [`powerbi/competitor-sales-analysis`](powerbi/competitor-sales-analysis)
 
 ---
 
