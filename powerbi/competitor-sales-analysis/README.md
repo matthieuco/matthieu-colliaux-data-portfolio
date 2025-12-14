@@ -1,6 +1,6 @@
 # 📊 Power BI Dashboard – Competitor Sales Analysis
 
-## 🎯 Objective
+## 🎯 Objectives
 - Analyse sales and market share to understand competitor sales
 - Finding relevant business insights to help business user to make informed decisions and actions on their data.
 
