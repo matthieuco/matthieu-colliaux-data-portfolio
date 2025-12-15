@@ -31,12 +31,11 @@ visualization, and business insights.
 📂 [`powerbi/competitor-sales-analysis`](powerbi/competitor-sales-analysis)
 
 💡 What This Project Demonstrates
-
-	•	Ability to manage large datasets
-	•	Strong Power BI & Power Query skills
-	•	Solid understanding of data modeling
-	•	Business-oriented KPI definition
-	•	Clear data storytelling and insight communication
+- Ability to manage large datasets
+- Strong Power BI & Power Query skills
+- Solid understanding of data modeling
+- Business-oriented KPI definition
+- Clear data storytelling and insight communication	
 
 ---
 
