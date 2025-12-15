@@ -7,7 +7,7 @@ Analyze market sales data to understand competitive dynamics, identify key growt
 This project simulates a real-world business case based on a DataCamp project and focuses on transforming raw data into actionable decision-making insights.
 
 
-[📊](presentation/competitorsalesanalysis.pdf)
+Project presentation available here : [📊](presentation/competitorsalesanalysis.pdf)
 
 ---
 📦 Dataset
@@ -31,6 +31,8 @@ This project simulates a real-world business case based on a DataCamp project an
 4. Data Modeling
 5. KPI definition and calculation
 6. Visualization, Dashboard creation
+
+Project presentation available here : [📊](presentation/competitorsalesanalysis.pdf)
 
 ---
 🧹 Data Preparation Highlights
@@ -78,6 +80,8 @@ The Power BI dashboard provides:
 	•	Growth analysis vs previous year
 	•	Category, segment, and product drill-downs
 	•	Key influencer visualizations
+
+Project presentation available here : [📊](presentation/competitorsalesanalysis.pdf)
 
 📸 Screenshots available in the screenshots/ folder.
 ![Page 1 global view](screenshots/page1globalview.png)
