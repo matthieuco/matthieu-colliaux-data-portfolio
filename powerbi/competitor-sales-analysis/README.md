@@ -38,29 +38,46 @@ This project simulates a real-world business case based on a DataCamp project an
 - Creation of composite keys for accurate relationships
 - Calendar table creation using DAX (CALENDAR())
 
-⸻
+---
 📐 Data Model
 
 The model is structured around a Sales fact table connected to:
   - Product hierarchy (Category → Segment → Product)
-	- Manufacturer
-	-	Geography
-	- Date dimension
+  - Manufacturer
+  - Geography
+  - Date 
+
+![Data Model](screenshots/datamodel.png)
 
 This structure enables flexible analysis across time, geography, and competitive dimensions.
-🖼️ ![Data Model](screenshots/datamodel.png)
-⸻
-
-## 🖼️ Dashboard Preview
-
-
-![RFM Analysis](screenshots/rfm_analysis.png)
-![Sales Trends](screenshots/sales_trends.png)
 
 ---
+📈 Key Business Questions & KPIs
 
-## ✅ Key Outcomes
-- Identification of the TOP competitors generating the most revenue
-- Best performing segments and products
-- Growth over time
-- Sales compared to previous year
+- Who are the top competitors by revenue ?
+- Which categories, segments and products drive market performance
+- How is the market growing over time ?
+- How does current-year revenue compare to previous-year performance?
+
+Main KPIs:
+	•	Total Revenue
+	•	Year-over-Year Growth (%)
+	•	Revenue Share (% of total)
+	•	Category / Segment performance
+	•	Top-N manufacturers
+
+---
+📊 Dashboard Overview
+
+The Power BI dashboard provides:
+	•	A global market overview
+	•	Competitive ranking (Top-N analysis)
+	•	Growth analysis vs previous year
+	•	Category, segment, and product drill-downs
+	•	Key influencer visualizations
+
+📸 Screenshots available in the screenshots/ folder.
+![Page 1 global view](screenshots/page1globalview.png)
+![Page 2 advanced insights](screenshots/page2_advancedinsights.png)
+
+---
