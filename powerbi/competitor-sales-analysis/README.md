@@ -83,8 +83,9 @@ The Power BI dashboard provides:
 
 Project presentation available here : [📊](presentation/competitorsalesanalysis.pdf)
 
-📸 Screenshots available in the screenshots/ folder.
+
 ![Page 1 global view](screenshots/page1globalview.png)
 ![Page 2 advanced insights](screenshots/page2_advancedinsights.png)
 
----
+📸 Screenshots available in the screenshots/ folder.
+Full Project presentation available here : [📊](presentation/competitorsalesanalysis.pdf)
