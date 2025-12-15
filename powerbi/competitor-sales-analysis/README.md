@@ -6,7 +6,9 @@ Analyze market sales data to understand competitive dynamics, identify key growt
 
 This project simulates a real-world business case based on a DataCamp project and focuses on transforming raw data into actionable decision-making insights.
 
-📊 [presentation] (presentation/competitorsalesanalysis.pdf)
+📊 
+![Presentation](presentation/competitorsalesanalysis.pdf)
+
 ---
 📦 Dataset
 
