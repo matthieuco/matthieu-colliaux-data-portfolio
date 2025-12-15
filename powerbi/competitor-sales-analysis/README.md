@@ -1,45 +1,59 @@
 # 📊 Power BI Dashboard – Competitor Sales Analysis
 
-## 🎯 Objectives
-- Analyse sales and market share to understand competitor sales
-- Finding relevant business insights to help business user to make informed decisions and actions on their data.
+🎯 Project Objectives
 
+Analyze market sales data to understand competitive dynamics, identify key growth drivers, and highlight strategic business insights through an interactive Power BI dashboard.
 
----
-
-## 📦 Dataset
-- Context : Sales and market share Data, with a geographic and a time dimension
-- Source: Datacamp.co (public dataset)
-- + 700 000 rows
+This project simulates a real-world business case based on a DataCamp project and focuses on transforming raw data into actionable decision-making insights.
 
 ---
+📦 Dataset
 
-## 🛠️ Tools
-- Power BI
-
----
-
-## 📈 KPIs Analyzed
-- Revenue
-- % Growth
-- Market Share
-
+- Source: DataCamp.co (real-world inspired dataset)
+- Files: sales.csv, bi_dimensions.xlsx
+- Volume: + 700 000 rows
+- Data types: sales transactions, products, manufacturers, geography, time
 
 ---
+🛠️ Tools
 
-## 🔍 Methodology
+- Power BI (DAX, Power Query(ETL), Data modeling)
+
+---
+🔍 Methodology
+
 1. Data Integration in Power BI (.csv,.xlsx)
 2. Data Cleaning & Transformation
-3. Exploratory data analysis
+3. Exploratory data analysis (EDA)
 4. Data Modeling
 5. KPI definition and calculation
 6. Visualization, Dashboard creation
 
 ---
+🧹 Data Preparation Highlights
+
+- Handling missing values and inconsistent formats
+- Column splitting, transposition, and table reshaping
+- Table appending to consolidate international and domestic sales
+- Creation of composite keys for accurate relationships
+- Calendar table creation using DAX (CALENDAR())
+
+⸻
+📐 Data Model
+
+The model is structured around a Sales fact table connected to:
+  - Product hierarchy (Category → Segment → Product)
+	- Manufacturer
+	-	Geography
+	- Date dimension
+
+This structure enables flexible analysis across time, geography, and competitive dimensions.
+🖼️ ![Data Model](screenshots/datamodel.png)
+⸻
 
 ## 🖼️ Dashboard Preview
 
-![Overview](screenshots/overview.png)
+
 ![RFM Analysis](screenshots/rfm_analysis.png)
 ![Sales Trends](screenshots/sales_trends.png)
 
