@@ -88,4 +88,5 @@ Project presentation available here : [📊](presentation/competitorsalesanalysi
 ![Page 2 advanced insights](screenshots/page2_advancedinsights.png)
 
 📸 Screenshots available in the screenshots/ folder.
+
 Full Project presentation available here : [📊](presentation/competitorsalesanalysis.pdf)
