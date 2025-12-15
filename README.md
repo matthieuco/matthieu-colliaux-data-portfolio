@@ -22,11 +22,20 @@ visualization, and business insights.
 ## 📁 Projects
 
 ### 📌 Power BI
-- **E-commerce Sales Analysis**
-  - KPIs: Revenue, Average Order Value, RFM segmentation
+- **Competitor Sales Analysis**
+  - KPIs: Revenue, Year Over Year growth, Revenue Share (% of total)
+  - Category / Segment performance
+  - Top-N manufacturers
   - Interactive dashboards designed for decision-making
 
 📂 [`powerbi/competitor-sales-analysis`](powerbi/competitor-sales-analysis)
+
+💡 What This Project Demonstrates
+	•	Ability to manage large datasets
+	•	Strong Power BI & Power Query skills
+	•	Solid understanding of data modeling
+	•	Business-oriented KPI definition
+	•	Clear data storytelling and insight communication
 
 ---
 
