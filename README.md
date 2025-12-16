@@ -42,6 +42,6 @@ visualization, and business insights.
 ## 📫 Contact
 - 📧 Email: matthieu.colliaux@gmail.com  
 - [🔗 LinkedIn](https://www.linkedin.com/in/matthieu-colliaux/)
-- 📄 CV: (PDF link)
+- [📄 CV](CV/cvMatthieuColliaux-fr.pdf)
 
 Thank you for visiting 🙂
