@@ -43,9 +43,9 @@ Main KPIs:	Churn Rate
 📊 Dashboard Overview
 
 The Excel dashboard provides:
-	-	Reasons customers churn
-	-	Focus on Top churns reasons
-	-	Data plan consumption x churn
-	-	Age x churn
+- Reasons customers churn
+- Focus on Top churns reasons
+- Data plan consumption x churn
+- Age x churn
 
 Overview : [📊](overviewChurn.png)
