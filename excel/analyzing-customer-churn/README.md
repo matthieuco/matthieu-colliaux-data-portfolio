@@ -2,10 +2,9 @@
 
 🎯 Project Objectives
 
-Analyze customers data from "Databel", a telecom provider to understand which customers churn and why.
+Analyze customers data from a telecom provider to understand which customers profiles churn and why.
 
 This project is based in a fictitious company called Databel based on a DataCamp project.
-
 
 Overview : [📊](overviewChurn.png)
 
