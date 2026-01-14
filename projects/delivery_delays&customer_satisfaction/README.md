@@ -1,6 +1,6 @@
 # 📊 Delivery Delays & Customer Satisfaction — Olist Case Study
 
-[](screenshots/customersatisfaction.png)
+![overview](screenshots/customersatisfaction.png)
 
 ## Overview
 This project analyzes the impact of **delivery delays on customer satisfaction and business performance** for Olist, a Brazilian e-commerce marketplace.
