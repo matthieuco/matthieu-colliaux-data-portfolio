@@ -9,7 +9,7 @@ The objective is to go beyond descriptive dashboards and provide **actionable, d
 
 
 Project presentation available here : [📊](presentation/olist_customersatisfaction.pdf)
-
+Dashboard here : [.PBIX](PowerBI/olist_dashboard.pbix)
 ---
 
 ## 🎯 Business Questions
@@ -39,7 +39,11 @@ Project presentation available here : [📊](presentation/olist_customersatisfac
 - Correct customer modeling using `customer_unique_id` (true business key)
 - `review_score` Assign the most recent review score to the order (sometimes the review get updated couple times by the customer)
 - `seller_id` Assign each order to the seller with the highest revenue within the order
-  
+
+[OLTP](SQL/oltp_olist.sql)
+[OLAP](SQL/olap_olist.sql)
+[Data Model](SQL/dataModel.png)
+
 ---
 
 ## 📈 Key Insights
@@ -121,3 +125,4 @@ This case study demonstrates the ability to:
 - Translate data into **clear, actionable decisions**
 
 Project presentation available here : [📊](presentation/olist_customersatisfaction.pdf)
+Dashboard here : [.PBIX](PowerBI/olist_dashboard.pbix)
