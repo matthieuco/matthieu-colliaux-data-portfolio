@@ -10,7 +10,9 @@ The objective is to go beyond descriptive dashboards and provide **actionable, d
 
 
 Project presentation available here : [📊](presentation/olist_customersatisfaction.pdf)
+
 Dashboard here : [.PBIX](PowerBI/olist_dashboard.pbix)
+
 ---
 
 ## 🎯 Business Questions
@@ -126,4 +128,5 @@ This case study demonstrates the ability to:
 - Translate data into **clear, actionable decisions**
 
 Project presentation available here : [📊](presentation/olist_customersatisfaction.pdf)
+
 Dashboard here : [.PBIX](PowerBI/olist_dashboard.pbix)
