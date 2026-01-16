@@ -21,27 +21,27 @@ visualization, and business insights.
 
 ## 📁 Projects
 
-### 📌 Power BI
-- **Competitor Sales Analysis**
+### 📌 Delivery Delays & Customer Satisfaction
+## Overview
+This project analyzes the impact of **delivery delays on customer satisfaction and business performance** for Olist, a Brazilian e-commerce marketplace.
+The objective is to go beyond descriptive dashboards and provide **actionable, decision-oriented insights**, focusing on identifying **critical delivery delays** and quantifying their **customer and revenue impact**.
+
+📂 [`projects/delivery_delays&customer_satisfaction`](projects/delivery_delays&customer_satisfaction)
+Project presentation available here : [📊](presentation/olist_customersatisfaction.pdf)
+
+
+### 📌 Competitor Sales Analysis**
   - KPIs: Revenue, Year Over Year growth, Revenue Share (% of total)
   - Category / Segment performance
   - Top-N manufacturers
   - Interactive dashboards designed for decision-making
 
-📂 [`powerbi/competitor-sales-analysis`](powerbi/competitor-sales-analysis)
-
-💡 What This Project Demonstrates
-- Ability to manage large datasets
-- Strong Power BI & Power Query skills
-- Solid understanding of data modeling
-- Business-oriented KPI definition
-- Clear data storytelling and insight communication	
 
 ---
 
 ## 📫 Contact
 - 📧 Email: matthieu.colliaux@gmail.com  
 - [🔗 LinkedIn](https://www.linkedin.com/in/matthieu-colliaux/)
-- [📄 CV](CV/cvMatthieuColliaux-fr.pdf)
+- [📄 CV/resume](CV(resume)/resumeMatthieuColliaux(EN).pdf)
 
 Thank you for visiting 🙂
