@@ -41,7 +41,14 @@ This project simulates a real-world business case based on a DataCamp project an
 Project presentation available here : [📊](powerbi/competitor-sales-analysis/presentation/competitorsalesanalysis.pdf)
 
 ##
+### 📌 Analyzing Customer Churn
+#### Overview
+Analyze customers data from a telecom provider to understand which customers profiles **churn** and why.
+This project is based in a fictitious company called Databel based on a DataCamp project.
 
+📂 [`excel/analyzing-customer-churn`](excel/analyzing-customer-churn)
+
+Overview : [📊](excel/analyzing-customer-churn/overviewChurn.png)
 
 ---
 
