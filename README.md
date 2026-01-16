@@ -3,7 +3,7 @@
 
 👋 Welcome on my GitHub portfolio
 
-I am a **Business Data Analyst in training (RNCP niveau 7 – DataScientest, French school)**, 
+I am a **Business Data Analyst (RNCP niveau 7 – DataScientest, French school)**, 
 with a background as a **software engineer** and a strong interest in data analysis,
 visualization, and business insights.
 
