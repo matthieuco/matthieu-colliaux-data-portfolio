@@ -28,14 +28,19 @@ The objective is to go beyond descriptive dashboards and provide **actionable, d
 
 📂 [`projects/delivery_delays&customer_satisfaction`](projects/delivery_delays&customer_satisfaction)
 
-Project presentation available here : [📊](presentation/olist_customersatisfaction.pdf)
+Project presentation available here : [📊](projects/delivery_delays&customer_satisfaction/presentation/olist_customersatisfaction.pdf)
 
 ##
 ### 📌 Competitor Sales Analysis
-  - KPIs: Revenue, Year Over Year growth, Revenue Share (% of total)
-  - Category / Segment performance
-  - Top-N manufacturers
-  - Interactive dashboards designed for decision-making
+#### Overview
+Analyze market sales data to understand competitive dynamics, identify **key growth drivers**, and highlight **strategic business insights** through an interactive Power BI dashboard.
+This project simulates a real-world business case based on a DataCamp project and focuses on transforming raw data into actionable decision-making insights.
+
+📂 [`powerbi/competitor-sales-analysis`](powerbi/competitor-sales-analysis)
+
+Project presentation available here : [📊](powerbi/competitor-sales-analysis/presentation/competitorsalesanalysis.pdf)
+
+##
 
 
 ---
