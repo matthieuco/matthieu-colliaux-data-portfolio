@@ -22,11 +22,12 @@ visualization, and business insights.
 ## 📁 Projects
 
 ### 📌 Delivery Delays & Customer Satisfaction
-## Overview
+#### Overview
 This project analyzes the impact of **delivery delays on customer satisfaction and business performance** for Olist, a Brazilian e-commerce marketplace.
 The objective is to go beyond descriptive dashboards and provide **actionable, decision-oriented insights**, focusing on identifying **critical delivery delays** and quantifying their **customer and revenue impact**.
 
 📂 [`projects/delivery_delays&customer_satisfaction`](projects/delivery_delays&customer_satisfaction)
+
 Project presentation available here : [📊](presentation/olist_customersatisfaction.pdf)
 
 
