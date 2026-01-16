@@ -30,6 +30,7 @@ The objective is to go beyond descriptive dashboards and provide **actionable, d
 
 Project presentation available here : [📊](presentation/olist_customersatisfaction.pdf)
 
+---
 ### 📌 Competitor Sales Analysis
   - KPIs: Revenue, Year Over Year growth, Revenue Share (% of total)
   - Category / Segment performance
