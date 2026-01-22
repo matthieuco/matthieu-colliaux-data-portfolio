@@ -1,5 +1,4 @@
 # 📊 Delivery Delays & Customer Satisfaction 
-— Olist Case Study
 
 ![overview](screenshots/customersatisfaction.png)
 
@@ -45,7 +44,21 @@ Dashboard here : [.PBIX](PowerBI/olist_dashboard.pbix)
 - `review_score` Assign the most recent review score to the order (sometimes the review get updated couple times by the customer)
 - `seller_id` Assign each order to the seller with the highest revenue within the order
 
-[Data Model](screenshots/olapModel.png)
+### 🔗 Data Lineage
+Complete pipeline ELT from Google BigQuery built with DBT to transform Data and ensure the quality until consumption by PowerBI.
+Below is an example of the dbt lineage graph, illustrating how raw data is transformed into analytics-ready marts.
+
+![dbt lineage](screenshots/dbt_lineage.png)
+
+Fact_deliveries lineage focus :
+[fact_deliveries lineage](screenshots/dbt_lineage_fact_deliveries.png)
+
+### 🧱 Example: fact_deliveries model
+The model below illustrates how business logic, documentation, and tests are centralized within dbt.
+![dbt model](screenshots/dbt_fact_deliveries_table.png)
+
+Here is the link to the Star Schema :
+[Star Shema](screenshots/olapModel.png)
 
 ---
 
