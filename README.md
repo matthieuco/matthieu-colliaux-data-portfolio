@@ -12,9 +12,9 @@ visualization, and business insights.
 ---
 
 ## 🧠 Key Skills
-- **Data Analysis:** Python (Pandas, NumPy), SQL
+- **Data Analysis:** SQL
 - **Data Visualization / BI:** Power BI, Excel
-- **Data Modeling:** DBT (foundations)
+- **Data Quality and Transformation ELT/ETL:** DBT (Data Build Tool)
 - **Business Knowledge:** Marketing & finance KPIs, data storytelling
 
 ---
