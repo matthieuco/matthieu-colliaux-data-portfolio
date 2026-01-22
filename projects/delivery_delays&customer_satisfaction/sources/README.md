@@ -59,7 +59,7 @@ Intermediate models (int_*)
   
 Marts (fact_*, dim_*)
 - Star-schema inspired modeling
-- Facts defined at a clear and documented grain
+- Facts defined a clear and documented grain
 - Dimensions designed for BI filtering and slicing
 - Optimized for Power BI performance and usability
 
