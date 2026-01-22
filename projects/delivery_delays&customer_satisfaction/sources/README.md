@@ -2,8 +2,11 @@
 
 This project uses dbt (data build tool) to transform raw data stored in BigQuery into analytics-ready tables consumed by Power BI.dbt ensures data quality, modular transformations, documentation, and lineage across the entire analytics pipeline.
 
-🏗️  Architecture Overview
+---
 
+## 🏗️ Architecture Overview
+
+```text
 Raw CSV files
    ↓
 BigQuery (raw dataset)
@@ -12,13 +15,13 @@ dbt (staging → intermediate → marts)
    ↓
 BigQuery (analytics dataset)
    ↓
-Power BI dashboards
+Power BI dashboards 
 
 
 => dbt acts as the transformation and semantic layer, enforcing business logic and exposing clean, trusted tables for BI consumption.
 
 
-📁 dbt Project Structure
+## 📁 dbt Project Structure
 
 models/
 ├── staging/
@@ -38,7 +41,7 @@ packages.yml
 
 
 
-🔹 Modelling Strategy
+## 🔹 Modelling Strategy
 
 Staging models (stg_*)
 	•	One-to-one mapping with raw source tables
@@ -65,7 +68,7 @@ tests:
   - not_null
   - unique
 
-📚 Documentation & Lineage
+## 📚 Documentation & Lineage
 dbt documentation is generated to provide:
 	•	Column-level descriptions
 	•	Model-level explanations
@@ -74,7 +77,7 @@ dbt documentation is generated to provide:
 dbt docs generate
 dbt docs serve
 
-📊 Consumption Layer (Power BI)
+## 📊 Consumption Layer (Power BI)
 Power BI connects exclusively to dbt marts stored in BigQuery:
 	•	fact_delivery
 	•	dim_sellers
@@ -85,7 +88,7 @@ This approach guarantees:
 	•	Improved query performance
 	•	Clear separation between transformation and visualization layers
 
-🚀 Why dbt?
+## 🚀 Why dbt?
 Using dbt allows this project to follow analytics engineering best practices:
 	•	Version-controlled transformations
 	•	Reusable and testable SQL models
