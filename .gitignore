@@ -1,1 +1,6 @@
+.DS_Store
 /projects/delivery_delays&customer_satisfaction/sources/dbt_packages
+/projects/delivery_delays&customer_satisfaction/sources/dbt_packages/*
+/projects/delivery_delays&customer_satisfaction/sources/logs
+/projects/delivery_delays&customer_satisfaction/sources/logs/*
+/projects/delivery_delays&customer_satisfaction/sources/package-lock.yml
