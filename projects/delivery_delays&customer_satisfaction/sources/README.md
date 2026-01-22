@@ -86,7 +86,6 @@ dbt documentation is generated to provide:
 dbt docs generate
 dbt docs serve
 ```
-text
 
 ## 📊 Consumption Layer (Power BI)
 Power BI connects exclusively to dbt marts stored in BigQuery:
