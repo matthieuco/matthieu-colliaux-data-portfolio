@@ -31,6 +31,8 @@ Dashboard here : [.PBIX](PowerBI/olist_dashboard.pbix)
 ---
 
 ## 🗂️ Data Modeling & Preparation
+- BigQuery (RAW Data Storage and OLAP)
+- Data Build Tool (Data transformation and Quality) [DBT](sources/README.md)
 - SQL-based data cleaning and transformation
 - Feature engineering:
   - `is_delayed` flag
@@ -43,9 +45,7 @@ Dashboard here : [.PBIX](PowerBI/olist_dashboard.pbix)
 - `review_score` Assign the most recent review score to the order (sometimes the review get updated couple times by the customer)
 - `seller_id` Assign each order to the seller with the highest revenue within the order
 
-[OLTP](SQL/oltp_olist.sql)
-[OLAP](SQL/olap_olist.sql)
-[Data Model](SQL/dataModel.png)
+[Data Model](screenshots/olapModel.png)
 
 ---
 
@@ -113,6 +113,8 @@ Based on current distributions:
 ---
 
 ## 🛠️ Tools & Skills
+- **Google Cloud/BigQuery**: DataWarehouse (RAW data and OLAP storage)
+- **Data Build Tool (DBT)**: Data transformation and quality
 - **SQL**: data cleaning, window functions, feature engineering
 - **Data Modeling**: star schema, OLAP best practices
 - **Power BI**: DAX, calculated tables, advanced visuals
