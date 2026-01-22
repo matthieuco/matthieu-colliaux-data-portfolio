@@ -1,4 +1,4 @@
-#🧱 Data Transformation with DBT (BigQuery)
+# 🧱 Data Transformation with DBT (BigQuery)
 
 This project uses dbt (data build tool) to transform raw data stored in BigQuery into analytics-ready tables consumed by Power BI.dbt ensures data quality, modular transformations, documentation, and lineage across the entire analytics pipeline.
 
@@ -32,8 +32,10 @@ models/
         └── dim_*.sql      -- Descriptive entities
 
 tests/
+macros/
 dbt_project.yml
 packages.yml
+
 
 
 🔹 Modelling Strategy
