@@ -18,7 +18,7 @@ BigQuery (analytics dataset)
    ↓
 Power BI dashboards
 ```
-text
+
 
 => dbt acts as the transformation and semantic layer, enforcing business logic and exposing clean, trusted tables for BI consumption.
 
@@ -42,16 +42,15 @@ macros/
 dbt_project.yml
 packages.yml
 ```
-text
 
 
 ## 🔹 Modelling Strategy
 
 Staging models (stg_*)
-	-	One-to-one mapping with raw source tables
-	-	Column renaming and standardization
-	-	Type casting and basic data cleaning
-	-	No business logic
+	- One-to-one mapping with raw source tables
+	- Column renaming and standardization
+	- Type casting and basic data cleaning
+	- No business logic
 Intermediate models (int_*)
 	-	Business logic consolidation
 	-	Complex joins and transformations
@@ -62,7 +61,7 @@ Marts (fact_*, dim_*)
 	-	Dimensions designed for BI filtering and slicing
 	-	Optimized for Power BI performance and usability
 
-🧪 Data Quality & Testing
+## 🧪 Data Quality & Testing
 Data quality is enforced using dbt tests, including:
 	-	not_null
 	-	unique
@@ -74,7 +73,6 @@ tests:
   - not_null
   - unique
 ```
-text
 
 ## 📚 Documentation & Lineage
 dbt documentation is generated to provide:
