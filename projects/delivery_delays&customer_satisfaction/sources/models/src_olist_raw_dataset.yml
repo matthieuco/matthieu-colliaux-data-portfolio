@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: olist_raw_dataset
+    database: olist-484815
+    tables:
+      - name: olist_orders
+      - name: olist_order_items
+      - name: olist_order_reviews
+      - name: olist_customers
+      - name: olist_sellers
+      - name: olist_order_payments

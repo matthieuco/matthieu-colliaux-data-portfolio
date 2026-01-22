@@ -1,0 +1,48 @@
+version: 2
+
+models:
+  - name: fact_deliveries
+    description: "Fact table containing delivery metrics and information"
+    columns:
+      - name: order_id
+        description: "Unique ID order delivered"
+        tests:
+          - not_null
+          - unique
+      - name: customer_unique_id
+        description: "Unique Customer related to an order delivered"
+        tests:
+          - not_null
+      - name: seller_id
+        description: "Seller related to an order delivered"
+        tests:
+          - not_null
+      - name: order_date_key
+        description: "Foreign key to time dimension"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_time')
+              field: time_key
+      - name: delivery_date_key
+        description: "Foreign key to time dimension"
+        tests:
+          - relationships:
+              to: ref('dim_time')
+              field: time_key
+      - name: estimated_delivery_date_key
+        description: "Foreign key to time dimension"
+        tests:
+          - relationships:
+              to: ref('dim_time')
+              field: time_key
+      - name: delay_days
+        description: "Number of days the delivery was delayed (positive) or early (negative)"
+      - name: is_delayed
+        description: "Indicator whether the delivery was delayed (TRUE) or on time (FALSE)"
+      - name: review_score
+        description: "Customer review score for the order"
+      - name: nb_items_order
+        description: "Number of items in the order"
+      - name: order_value
+        description: "Total value of the order"
