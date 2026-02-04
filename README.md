@@ -1,10 +1,9 @@
 # matthieu-colliaux-data-portfolio
-# 📊 Portfolio Data Analyst – Matthieu Colliaux
+# 📊 Portfolio Analytics Engineer – Matthieu Colliaux
 
 👋 Welcome on my GitHub portfolio
 
-I am an **Analytics Engineer**, 
-with a background as a **software engineer** and a strong interest in data analysis,
+I am an **Analytics Engineer**, with a background as a **software engineer** and a strong interest in data analysis,
 visualization, and business insights.
 
 ---
