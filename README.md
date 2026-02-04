@@ -3,11 +3,9 @@
 
 👋 Welcome on my GitHub portfolio
 
-I am a **Business Data Analyst (RNCP niveau 7 – DataScientest, French school)**, 
+I am an **Analytics Engineer**, 
 with a background as a **software engineer** and a strong interest in data analysis,
 visualization, and business insights.
-
-🎯 **Objective:** Business Data Analyst apprenticeship (12 to 24 months)
 
 ---
 
