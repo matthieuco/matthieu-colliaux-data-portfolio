@@ -50,6 +50,6 @@ Project presentation available here : [📊](projects/delivery_delays&customer_s
 ## 📫 Contact
 - 📧 Email: matthieu.colliaux@gmail.com  
 - [🔗 LinkedIn](https://www.linkedin.com/in/matthieu-colliaux/)
-- [📄 CV/resume](CV(resume)/resumeMatthieuColliaux(EN).pdf)
+- [📄 CV/resume](CV(resume)/resumeMatthieuColliaux-EN.pdf)
 
 Thank you for visiting 🙂
