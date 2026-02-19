@@ -244,7 +244,7 @@ Acceleration of growth without compromising financial stability.
 ---
 
 ## 📌 Why This Project Matters
-This case study demonstrates the ability to:
+This case study demonstrates my ability to:
 - Bridge technical modeling and financial reasoning
 - Build scalable data architectures
 - Deliver executive-ready dashboards
