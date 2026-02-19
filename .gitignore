@@ -4,3 +4,5 @@
 /projects/delivery_delays&customer_satisfaction/sources/logs
 /projects/delivery_delays&customer_satisfaction/sources/logs/*
 /projects/delivery_delays&customer_satisfaction/sources/package-lock.yml
+/projects/delivery_delays&customer_satisfaction/sources/target
+/projects/delivery_delays&customer_satisfaction/sources/target/*
