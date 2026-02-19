@@ -33,7 +33,7 @@ Using real-world transactional data (2022–2023), I designed an end-to-end **fi
 
 📂 [`projects/financial_performance&risk_simulation`](projects/financial_performance&risk_simulation)
 
-Project presentation available here : [📊](projects/financial_performance&risk_simulation/presentation/olist_customersatisfaction.pdf)
+Project presentation available here : [📊](projects/financial_performance&risk_simulation/presentation/sbfd_cafeVancouver.pdf)
 
 ##
 ### 📌 Delivery Delays & Customer Satisfaction
