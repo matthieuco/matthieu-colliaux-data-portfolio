@@ -45,17 +45,6 @@ The objective is to go beyond descriptive dashboards and provide **actionable, d
 
 Project presentation available here : [📊](projects/delivery_delays&customer_satisfaction/presentation/olist_customersatisfaction.pdf)
 
-
-##
-### 📌 Analyzing Customer Churn
-#### Overview
-Analyze customers data from a telecom provider to understand which customers profiles **churn** and why.
-This project is based in a fictitious company called Databel based on a DataCamp project.
-
-📂 [`excel/analyzing-customer-churn`](excel/analyzing-customer-churn)
-
-Overview : [📊](excel/analyzing-customer-churn/overviewChurn.png)
-
 ---
 
 ## 📫 Contact
