@@ -187,11 +187,12 @@ Overview page here :[📊](screenshots/scenariosimulation.png)
 - Cash position remains structurally healthy
 - Revenue decline below a defined threshold triggers financial risk
 
+---
 
 ## ✅ Business Recommendations
 Based on the financial analysis (2022–2023), the business demonstrates **structural stability**, **strong cash generation**, and **predictable seasonality**. However, margin compression and cost dynamics require strategic attention.
 
-1. **Cost Structure Optimization (High Priority)**
+### 1️⃣ Cost Structure Optimization (High Priority)
 **Observation**:
 Operating costs increased by **+4.6% YoY** while revenue remained flat. Payroll represents **66%** of total operating expenses.
 
@@ -203,7 +204,7 @@ Operating costs increased by **+4.6% YoY** while revenue remained flat. Payroll 
 **Expected Impact**:
 Improved structural flexibility and margin protection during seasonal downturns.
 
-2. **Seasonality Management**
+### 2️⃣ Seasonality Management
 **Observation**:
 Clear seasonal pattern: **lower activity from February to June, peak in Q4**.
 
@@ -216,7 +217,7 @@ Clear seasonal pattern: **lower activity from February to June, peak in Q4**.
 **Expected Impact**:
 Reduced revenue volatility and smoother cash flow.
 
-3. **Risk Management Framework**
+### 3️⃣ Risk Management Framework
 **Observation**:
 Scenario simulation indicates financial risk increases significantly below a defined revenue threshold.
 
@@ -228,7 +229,7 @@ Scenario simulation indicates financial risk increases significantly below a def
 **Expected Impact**:
 Improved financial resilience under adverse conditions.
 
-4. **Strategic Use of Excess Cash**
+### 4️⃣ Strategic Use of Excess Cash
 **Observation**:
 Strong cash position and comfortable runway.
 
