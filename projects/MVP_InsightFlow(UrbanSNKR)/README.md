@@ -17,7 +17,9 @@ Originally built for an e-commerce use case (UrbanSNKR — sneaker retailer), th
 
 Log in with :
 > mail : mvp.insightflow@gmail.com
+
 > pwd : Urbansnkr!
+
 
 Feel free to give some [📝 Feedback](https://form.jotform.com/260982215327054)
 
@@ -240,6 +242,7 @@ This project was built to:
 
 Feedback is welcome!
 Feel free to open an issue or reach out to discuss improvements or use cases.
+
 Share your experience and help us improve our product
 [📝 Feedback](https://form.jotform.com/260982215327054)
 
@@ -248,9 +251,11 @@ Share your experience and help us improve our product
 ## 👤 Author
 
 Built by Matthieu Colliaux
+
 [🔗 LinkedIn](https://www.linkedin.com/in/matthieu-colliaux/)
 
 ---
 
 ⭐ If you find this project interesting, feel free to star the repository!
+
 Thank you for visiting 🙂
