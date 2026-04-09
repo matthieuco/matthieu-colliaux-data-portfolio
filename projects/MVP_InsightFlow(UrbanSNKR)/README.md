@@ -15,6 +15,7 @@ Originally built for an e-commerce use case (UrbanSNKR — sneaker retailer), th
 ### How to Access it :
 👉 https://app.lightdash.cloud/projects/31db9122-8a88-43ed-b8fe-07c89fbc892a/dashboards
 
+
 Log in with :
 > mail : mvp.insightflow@gmail.com
 
