@@ -12,17 +12,9 @@ Originally built for an e-commerce use case (UrbanSNKR — sneaker retailer), th
 * 🧠 Automated insights & recommendations
 
 
-### How to Access it :
-👉 https://app.lightdash.cloud/projects/31db9122-8a88-43ed-b8fe-07c89fbc892a/dashboards
+### Request Demo Access :
+👉 https://form.jotform.com/260986225154057
 
-
-Log in with :
-> mail : mvp.insightflow@gmail.com
-
-> pwd : Urbansnkr!
-
-
-Feel free to give some [📝 Feedback](https://form.jotform.com/260982215327054)
 
 ---
 
