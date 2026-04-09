@@ -6,3 +6,8 @@
 /projects/delivery_delays&customer_satisfaction/sources/package-lock.yml
 /projects/delivery_delays&customer_satisfaction/sources/target
 /projects/delivery_delays&customer_satisfaction/sources/target/*
+logs/
+
+# Keep UrbanSNKR source code private (nested repo), but allow public docs/assets.
+/projects/urbanSNKR/sources/urbanSNKR/
+/projects/urbanSNKR/sources/logs/
