@@ -1,5 +1,7 @@
 # 🚀 InsightFlow — Business Performance & Financial Analytics MVP
 
+![overview](screenshots/insightFlow.png)
+
 **InsightFlow** is a data-driven MVP designed to help businesses monitor, understand, and optimize their **financial and commercial performance**.
 
 Originally built for an e-commerce use case (UrbanSNKR — sneaker retailer), this solution goes beyond traditional dashboards by combining:
@@ -11,7 +13,7 @@ Originally built for an e-commerce use case (UrbanSNKR — sneaker retailer), th
 
 ---
 
-# 🎯 Problem Statement
+## 🎯 Problem Statement
 
 Most businesses — especially e-commerce companies — face a major challenge:
 
@@ -26,7 +28,7 @@ Common issues:
 
 ---
 
-# 💡 Solution
+## 💡 Solution
 
 InsightFlow provides a **centralized decision-making tool** that transforms raw data into actionable insights.
 
@@ -40,7 +42,7 @@ It enables users to:
 
 ---
 
-# 🧱 Data Stack & Architecture
+## 🧱 Data Stack & Architecture
 
 This MVP is built with a **modern, scalable data stack**:
 
@@ -72,39 +74,39 @@ This architecture ensures:
 
 ---
 
-# 📊 Product Overview
+## 📊 Product Overview
 
 InsightFlow is structured into 5 main modules:
 
-## 1. Resume
+### 1. Resume
 
 * Monthly performance snapshot
 * Health score
 * Key KPIs comparison vs previous period
 * Automated insights & recommendations
 
-## 2. Sales
+### 2. Sales
 
 * Revenue trends
 * Product performance
 * Gross profit & margin analysis
 * Identification of top and underperforming products
 
-## 3. Marketing
+### 3. Marketing
 
 * Customer acquisition metrics (CAC, LTV, ROAS)
 * Channel performance
 * Customer profitability
 * Growth trends
 
-## 4. Finance
+### 4. Finance
 
 * Profit & Loss overview
 * Cash flow monitoring
 * Burn rate & runway
 * Cost structure analysis
 
-## 5. What-if Simulation
+### 5. What-if Simulation
 
 * Scenario-based analysis (e.g. +20% marketing spend)
 * Impact on revenue, profit, and EBIT
@@ -112,7 +114,7 @@ InsightFlow is structured into 5 main modules:
 
 ---
 
-# 🧠 Key Differentiator
+## 🧠 Key Differentiator
 
 Unlike traditional BI dashboards, InsightFlow integrates:
 
@@ -132,7 +134,7 @@ Dashboard → Decision assistant
 
 ---
 
-# 🌍 Adaptability to Other Businesses
+## 🌍 Adaptability to Other Businesses
 
 Although built on an e-commerce dataset, InsightFlow is **industry-agnostic**.
 
@@ -149,7 +151,7 @@ The core concept remains:
 
 ---
 
-# 💎 Value Proposition
+## 💎 Value Proposition
 
 InsightFlow helps businesses:
 
@@ -161,7 +163,7 @@ InsightFlow helps businesses:
 
 ---
 
-# ⚠️ Current Limitations
+## ⚠️ Current Limitations
 
 As an MVP, some limitations remain:
 
@@ -172,35 +174,35 @@ As an MVP, some limitations remain:
 
 ---
 
-# 🚧 Future Improvements
+## 🚧 Future Improvements
 
 Several enhancements are planned:
 
-## 1. Invoicing & Accounting Integration
+### 1. Invoicing & Accounting Integration
 
 * Invoice ingestion (API / CSV / tools)
 * Real-time tracking of unpaid invoices
 * Cash flow forecasting improvement
 
-## 2. Automated Alerts
+### 2. Automated Alerts
 
 * Margin drop detection
 * CAC increase alerts
 * Cash risk notifications
 
-## 3. Advanced Financial Modeling
+### 3. Advanced Financial Modeling
 
 * Working capital analysis
 * Payment delays (customers & suppliers)
 * Forecasting models
 
-## 4. Customer Analytics
+### 4. Customer Analytics
 
 * Cohort analysis
 * Retention & repeat purchase
 * Customer segmentation
 
-## 5. Productization
+### 5. Productization
 
 * API-based data ingestion
 * Multi-client support
@@ -208,7 +210,7 @@ Several enhancements are planned:
 
 ---
 
-# 🧪 Project Purpose
+## 🧪 Project Purpose
 
 This project was built to:
 
@@ -219,14 +221,14 @@ This project was built to:
 
 ---
 
-# 📬 Feedback & Contributions
+## 📬 Feedback & Contributions
 
 Feedback is welcome!
 Feel free to open an issue or reach out to discuss improvements or use cases.
 
 ---
 
-# 👤 Author
+## 👤 Author
 
 Built by [Your Name]
 
