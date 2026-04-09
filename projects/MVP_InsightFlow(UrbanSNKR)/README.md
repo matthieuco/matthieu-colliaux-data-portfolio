@@ -11,6 +11,16 @@ Originally built for an e-commerce use case (UrbanSNKR — sneaker retailer), th
 * 🔮 Scenario simulation
 * 🧠 Automated insights & recommendations
 
+
+### How to Access it :
+👉 https://app.lightdash.cloud/projects/31db9122-8a88-43ed-b8fe-07c89fbc892a/dashboards
+
+Log in with :
+> mail : mvp.insightflow@gmail.com
+> pwd : Urbansnkr!
+
+Feel free to give some [📝 Feedback](https://form.jotform.com/260982215327054)
+
 ---
 
 ## 🎯 Problem Statement
@@ -85,6 +95,7 @@ InsightFlow is structured into 5 main modules:
 * Key KPIs comparison vs previous period
 * Automated insights & recommendations
 
+![overview](screenshots/resume.png)
 ### 2. Sales
 
 * Revenue trends
@@ -92,13 +103,15 @@ InsightFlow is structured into 5 main modules:
 * Gross profit & margin analysis
 * Identification of top and underperforming products
 
+![overview](screenshots/sales.png)
 ### 3. Marketing
 
-* Customer acquisition metrics (CAC, LTV, ROAS)
+* Customer acquisition metrics (CAC, CLV, ROAS)
 * Channel performance
 * Customer profitability
 * Growth trends
 
+![overview](screenshots/marketing.png)
 ### 4. Finance
 
 * Profit & Loss overview
@@ -106,12 +119,14 @@ InsightFlow is structured into 5 main modules:
 * Burn rate & runway
 * Cost structure analysis
 
+![overview](screenshots/finance.png)
 ### 5. What-if Simulation
 
 * Scenario-based analysis (e.g. +20% marketing spend)
 * Impact on revenue, profit, and EBIT
 * Decision support for strategic planning
 
+![overview](screenshots/whatifsimulation.png)
 ---
 
 ## 🧠 Key Differentiator
@@ -225,13 +240,17 @@ This project was built to:
 
 Feedback is welcome!
 Feel free to open an issue or reach out to discuss improvements or use cases.
+Share your experience and help us improve our product
+[📝 Feedback](https://form.jotform.com/260982215327054)
 
 ---
 
 ## 👤 Author
 
-Built by [Your Name]
+Built by Matthieu Colliaux
+[🔗 LinkedIn](https://www.linkedin.com/in/matthieu-colliaux/)
 
 ---
 
 ⭐ If you find this project interesting, feel free to star the repository!
+Thank you for visiting 🙂
