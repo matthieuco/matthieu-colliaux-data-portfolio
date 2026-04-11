@@ -11,7 +11,7 @@ visualization, and business insights.
 ## 🧠 Key Skills
 - **Data Audit & validation:** Python
 - **Data Analysis & transformation:** SQL
-- **Data Visualization / BI:** Power BI, Excel
+- **Data Visualization / BI:** Power BI, Excel, Lightdash
 - **Data Quality and Transformation ELT/ETL:** DBT (Data Build Tool)
 - **Business Knowledge:** Marketing & finance KPIs, data storytelling
 
@@ -19,6 +19,24 @@ visualization, and business insights.
 
 ## 📁 Projects
 
+### 🚀 InsightFlow — Business Performance & Financial Analytics MVP
+#### Overview
+**InsightFlow** is a data-driven MVP designed to help businesses monitor, understand, and optimize their **financial and commercial performance**.
+
+Originally built for an e-commerce use case (UrbanSNKR — sneaker retailer), this solution goes beyond traditional dashboards by combining:
+
+* 📊 Business analytics
+* 💰 Financial monitoring
+* 🔮 Scenario simulation
+* 🧠 Automated insights & recommendations
+
+
+### Request Demo Access :
+👉 https://form.jotform.com/260986225154057
+
+📂 [`projects/MVP_InsightFlow(UrbanSNKR)`](projects/MVP_InsightFlow(UrbanSNKR))
+
+##
 ### 📌 Financial Performance & Risk Simulation
 #### Overview
 This project demonstrates how financial data can be transformed into a decision-support tool for small business owners. 
