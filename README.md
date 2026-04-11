@@ -20,7 +20,7 @@ visualization, and business insights.
 ## 📁 Projects
 
 ### 🚀 InsightFlow — Business Performance & Financial Analytics MVP
-#### Overview
+
 **InsightFlow** is a data-driven MVP designed to help businesses monitor, understand, and optimize their **financial and commercial performance**.
 
 Originally built for an e-commerce use case (UrbanSNKR — sneaker retailer), this solution goes beyond traditional dashboards by combining:
@@ -30,11 +30,10 @@ Originally built for an e-commerce use case (UrbanSNKR — sneaker retailer), th
 * 🔮 Scenario simulation
 * 🧠 Automated insights & recommendations
 
-
-### Request Demo Access :
-👉 https://form.jotform.com/260986225154057
-
 📂 [`projects/MVP_InsightFlow(UrbanSNKR)`](projects/MVP_InsightFlow(UrbanSNKR))
+
+#### Request Demo Access :
+👉 https://form.jotform.com/260986225154057
 
 ##
 ### 📌 Financial Performance & Risk Simulation
