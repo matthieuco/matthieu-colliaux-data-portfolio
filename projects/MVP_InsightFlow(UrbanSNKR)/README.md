@@ -1,6 +1,6 @@
 # 🚀 InsightFlow — Business Performance & Financial Analytics MVP
 
-![overview](screenshots/insightFlow.png)
+![overview](screenshots/resume.png)
 
 **InsightFlow** is a data-driven MVP designed to help businesses monitor, understand, and optimize their **financial and commercial performance**.
 
